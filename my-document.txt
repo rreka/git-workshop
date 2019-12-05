@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 This is the first line in my new document!
 
 Okay, let's work on a second line in the document.
 
 Now, a third line.
-=======
-This is the first line in my new document!
->>>>>>> parent of 6988462... Second line
