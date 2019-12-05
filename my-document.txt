@@ -1,1 +1,3 @@
 This is the first line in my new document!
+
+Okay, let's work on a second line in the document.
